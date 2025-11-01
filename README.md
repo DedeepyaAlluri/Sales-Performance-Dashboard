@@ -10,6 +10,7 @@ Key Insights:
 Most Profitable Product: Tablet
 Best Channel: Online
 Monthly Profit Trend shows steady growth post-Q2 2022
+[Dashboard Preview](dashboard.png)
 
 Features:
 Interactive dashboard with slicers (Product, Channel, Region)

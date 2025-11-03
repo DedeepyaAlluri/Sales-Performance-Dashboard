@@ -1,34 +1,39 @@
-#  Sales Performance Dashboard
+ 📊 Sales Performance Dashboard
 
-## Objective
-To analyze sales and profit performance across regions, products, and channels using Excel.
+## 🎯 Objective
+Analyze sales performance across regions, products, and channels to identify key revenue and profit drivers.
 
-## Dataset Description
-- Records: 1,000+ sales transactions  
-- Fields: Date, Region, Product, Channel, Revenue, Cost, Profit  
-- Type: Simulated (created manually in Excel)
+## 📁 Dataset Description
+- Records: [Mention how many rows — e.g., 500 or 1000 transactions]
+- Columns: Date, Product, Region, Channel, Revenue, Cost, Profit, etc.
+- Type: Simulated dataset created manually for analysis.
 
-## Key Business Questions
-1. Which region generated the highest revenue?  
-2. Which channel is most profitable?  
-3. What is the monthly trend in revenue and profit?
+## 🧠 Business Questions
+1. Which region generates the highest revenue?
+2. Which channel contributes most to profit?
+3. What are the monthly trends in sales and profit?
 
-## Insights
-- North region contributed 45% of total profit  
-- Online channel sales increased 20% YoY  
-- Tablets were the top-performing category
+## 💡 Key Insights
+- North region drives highest revenue (approx. X% of total)
+- Online channel yields the best profit margin
+- Tablets outperform all other products in profitability
+- [Add 2–3 real observations from your Excel charts]
 
-##  Tools Used
-- Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting)
+## 🧰 Tools Used
+- Microsoft Excel
+  - Pivot Tables
+  - Slicers
+  - Conditional Formatting
+  - Charts
 
-##  Dashboard Preview
-![Sales Dashboard Preview]https://github.com/DedeepyaAlluri/Sales-Performance-Dashboard/blob/main/dashboard.png.png
+## 📸 Dashboard Preview
+![Sales Dashboard Preview](https://github.com/DedeepyaAlluri/Sales-Performance-Dashboard/blob/main/dashboard.png.png?raw=true)
 
-##  Files
-- `Sales_Dashboard.xlsx` → Interactive dashboard  
-- `Raw_Data.xlsx` → Clean dataset used  
+## 🧩 How to Use
+- Open `Sales_Performance_Dashboard.xlsx`
+- Use slicers at the top to filter by **Region**, **Product**, or **Channel**
+- Observe KPIs and charts update dynamically
 
-##  Next Steps
-- Convert to Power BI version  
-- Add trend-based forecasting (using Excel formulas)                                              
-
+## ⚙️ Future Improvements
+- Add Power BI version of the same dashboard
+- Include trend forecasting using Excel formulas

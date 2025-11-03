@@ -3,6 +3,11 @@
 ## 🎯 Objective
 Analyze sales performance across regions, products, and channels to identify key revenue and profit drivers.
 
+## 🔑 Key Findings
+- The South region generated the highest overall revenue, while the North region showed higher profit margins.
+- Online channels contributed the maximum sales volume, but retail channels had better profit percentages.
+- Product category B had strong growth potential, while category C showed a consistent decline across months.
+  
 ## 📊 Data Overview
 - **Source:** Sample dataset generated using Excel (replace with your real source if available)
 - **Rows/Columns:** 1,000 rows | 10 columns
@@ -29,21 +34,17 @@ Analyze sales performance across regions, products, and channels to identify key
 ## 📸 Dashboard Preview
 ![Sales Dashboard Preview][https://github.com/DedeepyaAlluri/Sales-Performance-Dashboard/blob/main/images/Dashboard_Preview.png]
 
-## 🔍 Key Findings
+## ⚙️ What I Did Technically
+- Used Excel Tables and Named Ranges to make KPIs dynamic.
+- Created Pivot Tables for Sales, Profit, and Channel analysis.
+- Added Slicers for Region, Month, and Channel to make dashboard interactive.
+- Used Conditional Formatting to highlight negative profit trends.
 
-- The **Online channel** generated the highest overall revenue compared to Retail and Distributor channels.  
-- The **West region** performed best in total profit, while some North region sales showed lower profit margins.  
-- **Laptops and Mobiles** are the top-performing products contributing the most to total revenue.  
-- **Profit margin drops** were mainly linked to higher discount percentages in specific months.
-
-## 🛠️ Steps Performed
-1. Imported raw sales data into Excel.
-2. Cleaned and formatted using filters and formulas.
-3. Used **Excel Tables** and **named ranges** to make KPIs dynamic.  
-4. Created **PivotTables** and **PivotCharts** for product, channel, and regional analysis.  
-5. Added **Slicers** for Year, Region, Product, and Channel to make the dashboard interactive.  
-5 Used **Conditional Formatting** to highlight negative profit margins in red.
-
+## 🔄 How to Refresh / Update the Dashboard
+1. Open the Excel file and go to the **Raw Data** sheet.
+2. Replace old sales data with new monthly data.
+3. Go to any Pivot Table → Right-click → Click **Refresh**.
+4. Check that slicers and charts update automatically.
 ## ⚙️ How to Use
 1. Download the `.xlsx` file.
 2. Enable content (macros if applicable).

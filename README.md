@@ -32,7 +32,7 @@ Analyze sales performance across regions, products, and channels to identify key
   - Charts
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Preview][https://github.com/DedeepyaAlluri/Sales-Performance-Dashboard/blob/main/images/Dashboard_Preview.png]
+![Sales Dashboard Preview](https://github.com/DedeepyaAlluri/Sales-Performance-Dashboard/blob/main/images/Dashboard_Preview.png)
 
 ## ⚙️ What I Did Technically
 - Used Excel Tables and Named Ranges to make KPIs dynamic.
@@ -45,8 +45,12 @@ Analyze sales performance across regions, products, and channels to identify key
 2. Replace old sales data with new monthly data.
 3. Go to any Pivot Table → Right-click → Click **Refresh**.
 4. Check that slicers and charts update automatically.
+   
 ## ⚙️ How to Use
 1. Download the `.xlsx` file.
 2. Enable content (macros if applicable).
 3. Use slicers to filter data by **Year**, **Region**, or **Channel**.
 4. Refresh PivotTables (Right-click → Refresh) if you change data.
+
+## Business Impact
+This dashboard enables management to identify top-performing regions and products, optimize sales strategy, and improve profitability tracking

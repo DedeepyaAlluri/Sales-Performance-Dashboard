@@ -1,31 +1,34 @@
-                                                          Sales Performance Dashboard (Excel Project)
-Project Name: Sales Performance Dashboard in Excel
+#  Sales Performance Dashboard
 
-Objective:
-To analyse company sales performance across products, channels, and regions using Excel.
+## Objective
+To analyze sales and profit performance across regions, products, and channels using Excel.
 
-Key Insights:
-Total Revenue: ₹305.5M
-Total Profit: ₹71.7M
-Most Profitable Product: Tablet
-Best Channel: Online
-Monthly Profit Trend shows steady growth post-Q2 2022
-[Dashboard Preview](dashboard.png)
+## Dataset Description
+- Records: 1,000+ sales transactions  
+- Fields: Date, Region, Product, Channel, Revenue, Cost, Profit  
+- Type: Simulated (created manually in Excel)
 
-Features:
-Interactive dashboard with slicers (Product, Channel, Region)
-KPI cards showing Revenue, Profit, and Profit Margin
-Top-performing products visualization
-Dynamic monthly and regional trend charts
-Clean and professional design, all pivot tables hidden
+## Key Business Questions
+1. Which region generated the highest revenue?  
+2. Which channel is most profitable?  
+3. What is the monthly trend in revenue and profit?
 
-Tools & Skills Used:
-Excel Pivot Tables & Charts
-Data Cleaning & Formatting
-Slicers and Conditional Formatting
-KPI Calculation (Profit, Profit Margin)
-Dashboard Layout Design
+## Insights
+- North region contributed 45% of total profit  
+- Online channel sales increased 20% YoY  
+- Tablets were the top-performing category
 
-Created By: Alluri Dedeepya (MBA Student | Aspiring Financial Analyst)
+##  Tools Used
+- Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting)
 
+##  Dashboard Preview
+![Sales Dashboard Preview](Dashboard.png.png)
+
+##  Files
+- `Sales_Dashboard.xlsx` → Interactive dashboard  
+- `Raw_Data.xlsx` → Clean dataset used  
+
+##  Next Steps
+- Convert to Power BI version  
+- Add trend-based forecasting (using Excel formulas)                                              
 

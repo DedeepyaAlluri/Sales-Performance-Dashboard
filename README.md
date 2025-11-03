@@ -39,9 +39,10 @@ Analyze sales performance across regions, products, and channels to identify key
 ## 🛠️ Steps Performed
 1. Imported raw sales data into Excel.
 2. Cleaned and formatted using filters and formulas.
-3. Created Pivot Tables for product, region, and channel analysis.
-4. Built KPIs using formulas and conditional formatting.
-5. Designed the dashboard layout with slicers and charts.
+3. Used **Excel Tables** and **named ranges** to make KPIs dynamic.  
+4. Created **PivotTables** and **PivotCharts** for product, channel, and regional analysis.  
+5. Added **Slicers** for Year, Region, Product, and Channel to make the dashboard interactive.  
+5 Used **Conditional Formatting** to highlight negative profit margins in red.
 
 ## ⚙️ How to Use
 1. Download the `.xlsx` file.

@@ -27,7 +27,7 @@ Analyze sales performance across regions, products, and channels to identify key
   - Charts
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Preview](https://github.com/DedeepyaAlluri/Sales-Performance-Dashboard/blob/main/dashboard.png.png?raw=true)
+![Sales Dashboard Preview]https://github.com/DedeepyaAlluri/Sales-Performance-Dashboard/blob/main/images/Dashboard_Preview.png
 
 ## 🧩 How to Use
 - Open `Sales_Performance_Dashboard.xlsx`

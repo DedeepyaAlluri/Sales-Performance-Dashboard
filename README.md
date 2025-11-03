@@ -22,7 +22,7 @@ To analyze sales and profit performance across regions, products, and channels u
 - Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting)
 
 ##  Dashboard Preview
-![Sales Dashboard Preview](Dashboard.png.png)
+![Sales Dashboard Preview]https://github.com/DedeepyaAlluri/Sales-Performance-Dashboard/blob/main/dashboard.png.png
 
 ##  Files
 - `Sales_Dashboard.xlsx` → Interactive dashboard  
